@@ -6,7 +6,7 @@ This script is designed to transfer GEO datasets from a local directory to an FT
 
 - Bash shell
 - curl
-- GNU Parallel (optional, for parallelized file transfer)
+- GNU Parallel
 
 ## Usage
 run either the ./transfer_GEO_V3.sh or modify directly the runMe.sh and run it.  
